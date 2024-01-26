@@ -1,0 +1,7 @@
+.app {
+    display: flex;
+    /* justify-content: center;
+    align-items: start; */
+    /* gap: 250px; */
+    padding: 30px;
+}
